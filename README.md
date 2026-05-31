@@ -1,4 +1,4 @@
-# push swap
+# push_swap
 
 > Projet réalisé à l'École 42 Paris
 
